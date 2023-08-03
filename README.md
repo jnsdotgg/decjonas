@@ -1,4 +1,4 @@
-<h1>Welcome to my github! My name is Jonas. 🇳🇱</h1>
+<h1>Welcome to my GitHub! My name is Jonas. 🇳🇱</h1>
 
 I like to design and create websites with HTML, CSS, JavaScript, and sometimes PHP in my free time.
 
