@@ -4,7 +4,6 @@ I like to design and create websites with HTML, CSS, JavaScript, and sometimes P
 
 How to reach me:
 
-<pre>
 Discord            @imjonas
 Matrix             @imjonas22
 Telegram           @imjonas
@@ -12,7 +11,6 @@ YouTube            @DecJonas
 X (FKA Twitter)    @DecJonas
 Mastodon           @imjonas22@mastodon.social
 Email              decjonas@proton.me
-</pre>
 
       Discord
       <a target="_blank" href="http://discordapp.com/users/752143718118850620">@imjonas</a>
