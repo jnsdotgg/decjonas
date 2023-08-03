@@ -14,8 +14,8 @@ Mastodon           @imjonas22@mastodon.social
 Email              decjonas@proton.me
 </pre>
 
-      <dt>Discord</dt>
-      <dd><a target="_blank" href="http://discordapp.com/users/752143718118850620">@imjonas</a></dd>
+      Discord
+      <a target="_blank" href="http://discordapp.com/users/752143718118850620">@imjonas</a>
 
       <dt>Matrix</dt>
       <dd><a target="_blank" href="#" onclick="alert('@imjonas22')">@imjonas22</a></dd>
